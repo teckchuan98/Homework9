@@ -12,7 +12,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/teckchuan98/Homework9/main/Public%20Holidays.csv"
+          "url": "https://raw.githubusercontent.com/teckchuan98/Homework9/main/Countries.csv"
         },
         "key": "Countries",
         "fields": ["Public Holidays"]
