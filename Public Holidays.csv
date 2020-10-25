@@ -1,16 +1,16 @@
-Countries,Public Holidays
-Cambodia, 15.00 
-China, 6.00 
-Hong Kong, 17.00 
-India, 14.00 
-Indonesia, 18.00 
-Japan, 18.00 
-Korea, 12.00 
-Malaysia, 14.00 
-Mongolia, 8.00 
-Myanmar, 17.00 
-Philippines, 18.00 
-Singapore, 11.00 
-Taiwan, 10.00 
-Thailand, 16.00 
-Vietnam, 6.00 
+Countries,Public Holidays,Threshold
+Cambodia, 15.00, Medium-High
+China, 6.00, Low
+Hong Kong, 17.00, Medium-High
+India, 14.00, Medium-High
+Indonesia, 18.00, High
+Japan, 18.00, High 
+Korea, 12.00, Medium-High
+Malaysia, 14.00, Medium-High
+Mongolia, 8.00, Medium 
+Myanmar, 17.00, Medium-High
+Philippines, 18.00, High 
+Singapore, 11.00, Medium
+Taiwan, 10.00, Medium
+Thailand, 16.00, Medium-High 
+Vietnam, 6.00, Low
